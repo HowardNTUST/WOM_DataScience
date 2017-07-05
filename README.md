@@ -8,7 +8,7 @@ This repo is mainly for WOM lab at NTUST.
 
 #### 1. 資料科學介紹 with R
 
-- 本次作業
+本次作業
  - 完成[R programming](https://www.coursera.org/learn/r-programming/home/welcome) 的 [week1](https://www.coursera.org/learn/r-programming/home/week/1) & [2](https://www.coursera.org/learn/r-programming/home/week/2)
 
 - 下次討論
