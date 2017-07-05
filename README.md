@@ -15,8 +15,8 @@ This repo is mainly for WOM lab at NTUST.
 時間：7/15　10：00-11：00
 地點：暫定MA 206
 主題：
-  - week1 & 2 問題討論 (30分鐘)
   - Edison的[IR](https://en.wikipedia.org/wiki/Institutional_research)歷程與資料蒐集過程分享(30分鐘)
+  - week1 & 2 問題討論 (30分鐘)
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/tqWjd14YkAc/0.jpg)](http://www.youtube.com/watch?v=tqWjd14YkAc "Video Title")
  
