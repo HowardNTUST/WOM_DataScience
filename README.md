@@ -5,8 +5,8 @@ This repo is mainly for WOM lab at NTUST.
 <p align="center"><img width="100%"; height="320" src="planpic/plan.png" /></p>
 
 ## youtube video
- [WOM01_資料科學介紹](https://youtu.be/tqWjd14YkAc)
- 
- [![IMAGE ALT TEXT](http://img.youtube.com/vi/tqWjd14YkAc/0.jpg)](http://www.youtube.com/watch?v=tqWjd14YkAc "Video Title")
- 
 
+#### 1. 資料科學介紹
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/tqWjd14YkAc/0.jpg)](http://www.youtube.com/watch?v=tqWjd14YkAc "Video Title")
+ 
