@@ -18,8 +18,12 @@ This repo is mainly for WOM lab at NTUST.
 地點：暫定MA 206
 
 - topic
-  - [IR](https://en.wikipedia.org/wiki/Institutional_research) intro to data collection and structure```Edison 15-30 min```
-  - week1 & 2 discussion ```15 min```
+  - [IR](https://en.wikipedia.org/wiki/Institutional_research) intro to data collection and structure```Edison 15 min```
+  - week1 & 2 discussion ```30 min```
+    - 葉心倩 is responsible for short summary of week 1, including concept explaination and R script operation. ```10 min```
+    - 胡佳玲 is responsible for short summary of week 2, including concept explaination and R script operation. ```10 min```
+    - Howard is responsible for [discussion](https://github.com/HowardNTUST/WOM_DataScience-with-R/issues/1) ```10 min```
+    
   - Mircrosoft R & R studio keypoint intro ```Howard 15 min```
  
 
