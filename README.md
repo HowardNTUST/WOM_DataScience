@@ -12,7 +12,7 @@ week 2 | 資料科學介紹 with R | [WOM_week2](https://github.com/HowardNTUST/
 
 ## Youtube video and assignment
 
-#### week 2. 
+### week 2. 
 ##### Topic
  - [IR](https://en.wikipedia.org/wiki/Institutional_research) intro to data collection and structure```Edison 15 min```
  - week1 & 2 discussion ```30 min```
@@ -24,7 +24,7 @@ week 2 | 資料科學介紹 with R | [WOM_week2](https://github.com/HowardNTUST/
     - R studio keypoint intro - [Video](https://www.youtube.com/watch?v=hZwjClay-ww&t=1276s&list=PLRwlRpYDDfLBAnMVOYm1h7r_s_Bk4wJPq&index=3), [R script used](https://github.com/HowardNTUST/WOM_DataScience-with-R/blob/master/WOM_week2/MDS%E5%8F%A3%E7%A2%9102-R%20studio%20keypoint%20intro_%E7%B6%B2%E8%B7%AF%E7%88%AC%E8%9F%B2_%E5%85%A8%E5%AE%B6.R)
     - Mircrosoft R - video, [ppt](https://github.com/HowardNTUST/WOM_DataScience-with-R/blob/master/WOM_week2/MDS%E5%8F%A3%E7%A2%9102-Microsoft%20R_v1.0.pptx), [R script used](https://github.com/HowardNTUST/WOM_DataScience-with-R/blob/master/WOM_week2/MDS%E5%8F%A3%E7%A2%9102-R_Microsoft%20R.R)
 
-#### week 1. 資料科學介紹 with R
+### week 1. 資料科學介紹 with R
 
 ##### Assignment
  - 完成[R programming](https://www.coursera.org/learn/r-programming/home/welcome) 的 [week1](https://www.coursera.org/learn/r-programming/home/week/1) & [2](https://www.coursera.org/learn/r-programming/home/week/2)
