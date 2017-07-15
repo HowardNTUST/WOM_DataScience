@@ -16,7 +16,7 @@ week 2 | Programming with R & <br /> IR data collection | [WOM_week2](https://gi
 ##### Time 2017/7/22 10:00-11:00
 ##### Meetingplace Setting: Tom designated 王櫻蒨 as host for week 3
 ##### Topic
-Tom suggested members involved in IR team take turns to present in order to lighten Edison's burden and have them a chance to train their presentation skills
+Tom suggested members involved in IR team take turns to present in order to lighten Edison's burden and have a chance to train  presentation skills
  
  - [IR](https://en.wikipedia.org/wiki/Institutional_research) data structure demo and discussion```15 min```
    - data structure demo ```10 min```
