@@ -19,8 +19,8 @@ week 2 | Programming with R & <br /> IR data collection | [WOM_week2](https://gi
 Tom suggested members involved in IR team take turns to present in order to lighten Edison's burden and have a chance to train  presentation skills
  
  - [IR](https://en.wikipedia.org/wiki/Institutional_research) data structure demo and discussion```15 min```
-   - data structure demo ```10 min```
-   - discuss ```5 min```
+   - data structure demo ```Edison team 10 min```
+   - discussion ```5 min```
  - week 3 discussion ```25 min```
    - 利怡萱 is responsible for presenting summary of week 3 with R script. ```10 min + 5 min discussion```
    - Howard is responsible for [discussion](https://github.com/HowardNTUST/WOM_DataScience-with-R/issues/1) ```10 min```
