@@ -16,10 +16,13 @@ week 2 | Programming with R & <br /> IR data collection | [WOM_week2](https://gi
 ##### Time 2017/7/22 10:00-11:00
 ##### Meetingplace Setting: Tom designated 王櫻蒨 as host for week 3
 ##### Topic
- - [IR](https://en.wikipedia.org/wiki/Institutional_research) data structure demo```10 min```
-   - Tom suggested members involved in IR team take turns to present in order to lighten Edison's burden and have them a chance to train their presentation skills
- - week 3 discussion ```20 min```
-   - 利怡萱 is responsible for presenting summary of week 3 with R script. ```10 min```
+Tom suggested members involved in IR team take turns to present in order to lighten Edison's burden and have them a chance to train their presentation skills
+ 
+ - [IR](https://en.wikipedia.org/wiki/Institutional_research) data structure demo and discussion```15 min```
+   - data structure demo ```10 min```
+   - discuss ```5 min```
+ - week 3 discussion ```25 min```
+   - 利怡萱 is responsible for presenting summary of week 3 with R script. ```10 min + 5 min discussion```
    - Howard is responsible for [discussion](https://github.com/HowardNTUST/WOM_DataScience-with-R/issues/1) ```10 min```
  - R speical ```Howard 10 min```
    - A substitute for SPSS: R commander
