@@ -23,7 +23,7 @@ Tom suggested members involved in IR team take turns to present in order to ligh
    - discussion ```5 min```
  - week 3 discussion ```25 min```
    - 利怡萱 is responsible for presenting summary of week 3 with R script. ```10 min + 5 min discussion```
-   - Howard is responsible for [discussion](https://github.com/HowardNTUST/WOM_DataScience-with-R/issues/1) ```10 min```
+   - Howard is responsible for [discussion](https://github.com/HowardNTUST/WOM_DataScience-with-R/issues/1) and quiz for members ```10 min```
  - R speical ```Howard 10 min```
    - A substitute for SPSS: R commander
  - extempore motion ```10 min```
