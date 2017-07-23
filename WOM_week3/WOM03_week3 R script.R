@@ -15,7 +15,7 @@ colSums(thematrix)
 #每一列的總和
 apply(thematrix, 1, sum)
 rowSums(thematrix)
-#計算每一列或行總和
+#計算每一列或行平均值
 rowMeans(thematrix)
 colMeans(thematrix)
 
@@ -115,11 +115,11 @@ printmessage <- function(x) {
     print("x is less than or equal to zero")
   invisible(x)  
 }
-#'#4. invisible 阻止自動輸出的函數
+#invisible 阻止自動輸出的函數
 printmessage(1)
 printmessage(NA)
 
-#'#5. condition: 上述三種提示都是條件，可自行創造另一種條件，它既不是錯誤、警告，也不是訊息。
+#'#4. condition: 上述三種提示都是條件，可自行創造另一種條件，它既不是錯誤、警告，也不是訊息。
 
 
 
