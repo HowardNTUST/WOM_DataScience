@@ -27,10 +27,10 @@ week 3 | Loop function and debugging & <br /> IR data collection 2 | [WOM_week3]
    - discussion; you can upload you questions [here](https://github.com/HowardNTUST/WOM_DataScience-with-R/issues/1) ```10 min```
  - week 3 discussion ```25 min```
    - 郭騏瑋 is responsible for presenting summary of week 4 with R script. ```10 min + 5 min discussion```
-   - Howard is responsible for [discussion](https://github.com/HowardNTUST/WOM_DataScience-with-R/issues/1) and quiz for members ```10 min```
+   - Howard is responsible for quiz for members ```10 min```
  - R speical ```Howard 10 min```
-   - A substitute for SPSS: R commander
- - extempore motion ```10 min```
+   - Read docs table: [docxtractr](https://cran.r-project.org/web/packages/docxtractr/docxtractr.pdf)
+ - extempore motion ```5 min```
 
 ### week 3. Loop function and debugging & IR data collection 2
 ##### Time 2017/7/23 10:00-11:00
