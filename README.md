@@ -29,7 +29,7 @@ week 3 | Loop function and debugging & <br /> IR data collection 2 | [WOM_week3]
    - 郭騏瑋 is responsible for presenting summary of week 4 with R script. ```10 min + 5 min discussion```
    - Howard is responsible for quiz for members ```10 min```
  - R speical ```Howard 10 min```
-   - Read docs table: [docxtractr](https://cran.r-project.org/web/packages/docxtractr/docxtractr.pdf)
+   - R X 資料科學式告白: [wordcloud](https://cran.r-project.org/web/packages/wordcloud2/wordcloud2.pdf)
  - extempore motion ```5 min```
 
 ### week 3. Loop function and debugging & IR data collection 2
